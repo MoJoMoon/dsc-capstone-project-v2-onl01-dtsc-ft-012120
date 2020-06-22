@@ -1,6 +1,6 @@
 # Deep Learning for Diversity Inclusion in Media
 
-<img src='images\notebook_images\title.gif' align="center">
+<img src='images/notebook_images/title.gif' align="center">
 
 ## Introduction
 
@@ -38,7 +38,7 @@ To demonstrate how GANs are capable of generating image data that is not only de
 
 ### LinkedIn Dataset
 
-<img src='images\notebook_images\linkedin_dataset.png' align="center">
+<img src='images/notebook_images/linkedin_dataset.png' align="center">
 
 ### Image Analysis
 
